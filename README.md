@@ -2,8 +2,8 @@
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on BSG Partners [Github](https://github.com/kekwon) as a **SAP cloud application** and **Back-end** engineer.
-- 🌱 I’m currently learning Programming, Computer Science.
+- 🔭 I’m currently working on BSG Partners as a **SAP cloud application** and **Back-end** engineer. [Github](https://github.com/kekwon)
+- 🌱 I’m currently learning Web Programming, Computer Science.
 - 📝 I write articles on [my blog](https://butter-shower.tistory.com) and [careerly](https://careerly.co.kr/profiles/222701)
 
 <br/>
