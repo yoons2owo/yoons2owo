@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Blog: https://yoons2owo.tistory.com/manage
+- Writing: https://careerly.co.kr/profiles/222701
+
 <!--
 **yoons2owo/yoons2owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
