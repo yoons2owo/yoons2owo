@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Blog: https://yoons2owo.tistory.com/manage
+- Blog: https://yoons2owo.tistory.com/
 - Writing: https://careerly.co.kr/profiles/222701
 
 <!--
