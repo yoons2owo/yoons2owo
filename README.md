@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Programming, Computer Science.
 - 📝 I write articles on [my blog](https://butter-shower.tistory.com) and [careerly](https://careerly.co.kr/profiles/222701)
 
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoons2owo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
